@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "rirods"]
+	path = rirods
+	url = https://github.com/irods/irods_client_library_rirods
